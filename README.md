@@ -1,4 +1,4 @@
-# SemEvalTask1
+# SemEval-2025-Task1
 
 This repository contains datasets and code for SemEval 2025 Task 1.
 
